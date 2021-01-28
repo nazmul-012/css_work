@@ -1,0 +1,77 @@
+ul li {
+    list-style-type: none;
+}
+ul li a{
+    text-decoration: none;
+    float: left;
+    padding: 12px 22px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(100, 173, 3);
+}
+ul{
+   margin-left: 350px;
+   padding: 0;
+}
+.header{
+    height: 42px;
+    background-color:rgb(100, 173, 3);
+}
+.html{
+    border: 2px solid black;
+    height: 250px;
+    width: 30%;
+   
+}
+.css{
+    border: 2px solid black;
+    height: 250px;
+    width: 30%;
+}
+.bootstrap{
+    border: 2px solid black;
+    height: 250px;
+    width: 30%;
+}
+.html, .css, .bootstrap{
+    float: left;
+    margin: 10px;
+    background-color: paleturquoise;
+}
+h3, h1{
+    text-align: center;
+}
+.suhi{
+    color: orangered;
+    font-size: xx-large;
+}
+.huti, .cuti, .booti{
+    color: orchid;
+}
+.group{
+    margin-left: 10px;
+}
+.service{
+    background-color: plum;
+    height: 380px;
+    margin-top: -26px;
+   
+}
+.main{
+    margin-left: 40px;
+}
+.footer{
+    background-color: rgb(51, 43, 43);
+    
+    color: white;
+    text-align: center;
+    margin-top: -20px;
+   
+
+}
+.upor{
+    padding-bottom: 20px;
+    padding-top: 110px;
+}
+.see{
+    padding-top: 20px;
+}
